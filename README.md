@@ -38,17 +38,21 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 - RTP verifier (C#, CUDA)
 - Third-party slot analysis program (Go)
 - Payout rate monitoring system ( Node.js, Express )
+  
 #### Platform Server (2022.09 ~ 2023.11)
 - As backup developer
 - REST api server ( C#, ASP.NET, MariaDB )
+  
 #### Coin Platform Operation (2022.01 ~ 2022.08)
 - Maintenance and Support ( Java Spring )
 - Ethereum Node Operation ( geth )
 - Node Monitoring, Alert System Development ( Node.js )
+  
 #### FudaLotto (2022.01 ~ 2022.06)
 - Launching Mobile Lottery-related Service in Thailand
 - As Lead Programmer server and client both ( React-native, Express )
 - migrate server AWS to nCloud
+  
 #### No Pickles - pet escape (2020.11 ~ 2021.11)
 - MOAction game like "Among Us"
 - Small scale project
@@ -96,6 +100,7 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 	- Integration with Apple Connect
 	- Integration with Apple Game Center
 	- Scratch Lottery System
+   
 #### Rock'N Cash Mobile (2018.08 ~ 2019.04)
 - Achieving Depth Perception through Scrolling Correction and Image Skew
 - Implementation of Dynamic Effects (e.g., Coin Scatter upon Winning)
