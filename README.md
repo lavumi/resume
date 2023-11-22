@@ -1,7 +1,9 @@
 # KimDoyoung (Lavumi)
 
 ✉️ : me@lavu.me
+
 Git: [https://github.com/lavumi](https://github.com/lavumi)
+
 Fun Projects : [https://lavumi.net/](https://lavumi.net/)
 
 Last Update : 2023-11-21
