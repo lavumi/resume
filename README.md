@@ -36,8 +36,8 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 - Make 5 Games with one architecture
 - REST api server ( C#, ASP.NET, MariaDB )
 - Parsheet design
-- RTP verifier (C#, CUDA)
-- Third-party slot analysis program (Go)
+- RTP verifier ( C#, CUDA )
+- Third-party slot analysis program ( Go )
 - Payout rate monitoring system ( Node.js, Express )
   
 #### Platform Server 
@@ -54,7 +54,7 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 #### FudaLotto 
 - 2022.01 ~ 2022.06
 - Launching Mobile Lottery-related Service in Thailand
-- As Lead Programmer server and client both ( React-native, Express )
+- As Lead Programmer ( React-native, Express )
 - migrate server AWS to nCloud
   
 #### No Pickles - pet escape 
@@ -66,29 +66,18 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 	- 1 designer
 - Client ( Cocos Creator )
 	- Fog of War System
-		- Developed a tool for inputting objects that block line of sight.
-		- Real-time calculation of visibility radius and obstruction, rendering of visible areas.
-		- Rendering of objects within the line of sight.
-		- Rendering of objects visible from outside the line of sight.
-		- Merging two textures to implement the final field of view.
-	- Network Client
 	- Animation and Movement Network Synchronization Object
-	- Scene Management System
-	- Character Skin Management System
-	- Game Screen Sharing
+	- Game Screen Capture
 	- Replay Feature
 	- Facebook Instant Game API (Login, Payment, Posting, Friend Invitations, etc.)
 	- CDN Setup using Asset Bundles
 - Server ( pomelo , Mysql)
-	- Token Login System
-	- Player Information Management System
-	- Implementation and Management System for Waiting Rooms and In-game Rooms
-	- Quick Matching System
-	- In-game and In-app Payment System
-	- Built-in Chat and Google Translation
+	- Room-base real-time action game
+	- Quick Matching
+	- In-game and In-app Purchase
+	- Chatting and Google Translation
 	- Funnel and Play Log
 	- Dyeing Algorithm
-	- Player Movement Synchronization
 
 #### Rock'N Cash 
 - 2019.04 ~ 2020.11
@@ -98,14 +87,14 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 	- UI Enhancements
 - Contents Update
 	- Bug fix
-	- Various New Events
-	- Launch of Kino Slot for Web and Mobile
-	- Rework of Profile and Level Systems
-	- In-game Tutorial
-	- Redesign of Client-side Login Sequence
+	- Various New Events and Features
+		- Launch of Kino Slot for Web and Mobile
+		- Rework of Profile and Level Systems
+		- In-game Tutorial
+  		- Scratch Lottery System 
 	- Integration with Apple Connect
 	- Integration with Apple Game Center
-	- Scratch Lottery System
+	
    
 #### Rock'N Cash Mobile 
 - 2018.08 ~ 2019.04
