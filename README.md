@@ -18,19 +18,20 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 
 # Experiences
 - CandiCode (2022.09 ~ 2023.11)
-	- [Slot Game](#slot-game-202209--202311)
-	- [Gaming Platform](#platform-server-202209--202311)
+	- [Slot Game](#slot-game)
+	- [Gaming Platform](#platform-server)
 	- Manage Office Infra : Redmine, Mentis (Docker)
 - VanillaCode (2022.01 ~ 2022.08)
-	- [Coin Platform Operation](#coin-platform-operation-202201--202208)
-	- [FudaLotto](#fudalotto-202201--202206)
+	- [Coin Platform Operation](#coin-platform-operation)
+	- [FudaLotto](#fudalotto)
 - Flysher (2018.08 ~ 2021.11)
-	- [No Pickles - Pet Escape](#no-pickles---pet-escape-2020-11--2021-11)
-	- [Rock'N Cash](#rockn-cash-2019-04--2020-11)
-	- [Rock'N Cash Mobile](#rockn-cash-mobile-2018-08--2019-04)
+	- [No Pickles - Pet Escape](#no-pickles---pet-escape)
+	- [Rock'N Cash](#rockn-cash)
+	- [Rock'N Cash Mobile](#rockn-cash-mobile)
 
 # Projects
-#### Slot Game (2022.09 ~ 2023.11)
+#### Slot Game 
+- 2022.09 ~ 2023.11
 - Project manage and server development
 - Make 5 Games with one architecture
 - REST api server ( C#, ASP.NET, MariaDB )
@@ -39,21 +40,25 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 - Third-party slot analysis program (Go)
 - Payout rate monitoring system ( Node.js, Express )
   
-#### Platform Server (2022.09 ~ 2023.11)
+#### Platform Server 
+- 2022.09 ~ 2023.11
 - As backup developer
 - REST api server ( C#, ASP.NET, MariaDB )
   
-#### Coin Platform Operation (2022.01 ~ 2022.08)
+#### Coin Platform Operation 
+- 2022.01 ~ 2022.08
 - Maintenance and Support ( Java Spring )
 - Ethereum Node Operation ( geth )
 - Node Monitoring, Alert System Development ( Node.js )
   
-#### FudaLotto (2022.01 ~ 2022.06)
+#### FudaLotto 
+- 2022.01 ~ 2022.06
 - Launching Mobile Lottery-related Service in Thailand
 - As Lead Programmer server and client both ( React-native, Express )
 - migrate server AWS to nCloud
   
-#### No Pickles - pet escape (2020.11 ~ 2021.11)
+#### No Pickles - pet escape 
+- 2020.11 ~ 2021.11
 - MOAction game like "Among Us"
 - Small scale project
 	- 1 programmer (me)
@@ -85,7 +90,8 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 	- Dyeing Algorithm
 	- Player Movement Synchronization
 
-#### Rock'N Cash (2019.04 ~ 2020.11)
+#### Rock'N Cash 
+- 2019.04 ~ 2020.11
 - Animation tool enhancement
 	- Improvement of Image Loading System
 	- Bitmap Font Implementation
@@ -101,12 +107,14 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 	- Integration with Apple Game Center
 	- Scratch Lottery System
    
-#### Rock'N Cash Mobile (2018.08 ~ 2019.04)
+#### Rock'N Cash Mobile 
+- 2018.08 ~ 2019.04
 - Achieving Depth Perception through Scrolling Correction and Image Skew
 - Implementation of Dynamic Effects (e.g., Coin Scatter upon Winning)
 - Designing the Layout Structure for In-game Icons Placement
 
-#### Project Run (2015.12 ~ 2016.04)
+#### Project Run 
+- 2015.12 ~ 2016.04
 - Addition of Curved Maps and Implementation of Corresponding Movement Methods
 - Map Tool Improvement for Curved Map Creation
 - Detailed Planning and Crafting of Skills for Individualized Character
