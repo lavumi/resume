@@ -73,6 +73,7 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 	- CDN Setup using Asset Bundles
 - Server ( pomelo , Mysql)
 	- Room-base real-time action game
+ 	- Websocket server 	
 	- Quick Matching
 	- In-game and In-app Purchase
 	- Chatting and Google Translation
