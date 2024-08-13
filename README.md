@@ -1,6 +1,6 @@
 # KimDoyoung (Lavumi)
 
-✉️ : me@lavu.me
+✉️ : me@lavumi.net
 
 Git: [https://github.com/lavumi](https://github.com/lavumi)
 
@@ -17,8 +17,10 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 
 
 # Experiences
+- Zipida (2024.04 ~ Current)
+	- [Labconnect](#labconnect)
 - CandiCode (2022.09 ~ 2023.11)
-	- [Slot Game](#slot-game)
+	- [Slot Machine Games](#slot-machine-games)
 	- [Gaming Platform](#platform-server)
 	- Manage Office Infra : Redmine, Mentis (Docker)
 - VanillaCode (2022.01 ~ 2022.08)
@@ -30,7 +32,15 @@ Lately, I have been drawn to Go and Rust, and I am studying and working on perso
 	- [Rock'N Cash Mobile](#rockn-cash-mobile)
 
 # Projects
-#### Slot Game 
+#### Labconnect
+- 2024.04 ~ Ongoing
+- Hospital-Medical Device Integration System Development
+- Full-Stack Development
+- Next.js Front-end
+- FastAPI Backend
+- PostgresQL
+
+#### Slot Machine Games
 - 2022.09 ~ 2023.11
 - Project manage and server development
 - Make 5 Games with one architecture
